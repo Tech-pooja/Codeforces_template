@@ -1,0 +1,25 @@
+import java.util.*;
+ 
+public class main{
+    
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        
+        int test_case=sc.nextInt();
+        
+        for(int m=0;m<test_case;m++)
+        {
+            
+            
+            
+        }
+        
+        
+        
+        
+    }
+    
+    
+    
+}
